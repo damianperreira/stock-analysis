@@ -1,2 +1,2 @@
 # stock-analysis
-Excel VBA
+Using Excel VBA
